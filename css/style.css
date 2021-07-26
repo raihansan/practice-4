@@ -1,0 +1,85 @@
+body{
+    font-family: 'Istok Web', sans-serif;
+    color: #4b3f55;
+}
+.header{
+    background-color:#775ba3;
+}
+.btn-user{
+    background-color: transparent;
+    color: #fff;
+    border: none;
+    font-size: 24px;
+    margin-left: auto;
+}
+hr.line{
+    background-color: #fff;
+    height: 2px;
+    opacity: 0.5;
+}
+.carousel-indicators [data-bs-target]{
+    height: 12px;
+    width: 12px;
+    border-radius: 50%;
+    border-color: transparent;
+    border: 2px solid #fff;
+}
+.carousel-indicators .active{
+    background-color: #fff;
+    height: 9.5px;
+    width: 9.5px;
+    margin-top: 1px;
+}
+.title{
+    color: #775ba3;
+    font-size: 40px;
+}
+.text-1{
+    font-size: 23px;
+}
+.text-2{
+    font-size: 13px;
+}
+.icon{
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    color: #4b3f55;
+    border: 2px solid #4b3f55;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 80px;
+    font-size: 40px;
+}
+.lines{
+    border: 0.5px solid #91c5a9;
+} 
+.namen{
+    font-size: 15px;
+    color: #91c5a9;
+    font-weight: bold;
+}
+.work{
+    font-size: 12px;
+}
+.text-1{
+    font-size: 13px;
+    color:#4b3f55;
+}
+.lineal{
+    border: 3px solid #91c5a9;   
+}
+.footer{
+    background-color:#54865d;
+    font-size: 14px;
+    color: #fff;
+}
+.btn-group{
+    width: 100px;
+}
+.icon-2{
+   
+    font-size: 20px;
+    display: inline-block;
+    text-align: center;
+}
